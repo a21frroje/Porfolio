@@ -1,0 +1,14 @@
+{
+    "profile":{
+        "rol": "Desarrollador Full Stack",
+        "description": "Pues si la verdad es que me gustan las tetas mas que a un tonto un lapiz"
+    },
+    "experience":{
+        "first-job-title": "Instalacion y configuracion de routers",
+        "first-job-dates": "Dic 2020 - Sep 2023",
+        "first-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vero, aliquam ea voluptas debitis labore possimus dolor, autem impedit natus temporibus? Obcaecati, voluptate! Sunt nemo ratione minima est nam rem.",
+        "second-job-title": "Instalacion y configuracion de routers",
+        "second-job-dates": "Dic 2020 - Sep 2023",
+        "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vero, aliquam ea voluptas debitis labore possimus dolor, autem impedit natus temporibus? Obcaecati, voluptate! Sunt nemo ratione minima est nam rem."
+    }
+}
