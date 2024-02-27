@@ -10,13 +10,13 @@ const flagsElement = document.getElementById("flags")
 const textsToChange = document.querySelectorAll("[data-section]");
 
 const changeLenguage = async(lenguage) =>{
-    const requestJson = await fetch(`/languages/${lenguage}.json`);
-    const text = await requestJson.json();
+    const requestJson = await fetch(`./languages/${lenguage}.json`);
+    const texts = await requestJson.json();
 
     for(const textToChange of textsToChange){
         const section = textToChange.dataset.section;
         const value = textToChange.dataset.value;
-        textToChange.innerHTML=text[section][value]
+        textToChange.innerHTML=texts[section][value]
     }
 }
 
@@ -27,10 +27,10 @@ flagsElement.addEventListener('click', (e)=>{
 toggleTheme.addEventListener('click', ()=>{
     document.body.classList.toggle("dark");
     if(toggleIcon.src.includes("moon.svg")){
-        toggleIcon.src = "/assets/icons/sun.svg";
+        toggleIcon.src = "assets/icons/sun.svg";
         toggleText.textContent = "Ligth Mode";
     }else{
-        toggleIcon.src = "/assets/icons/moon.svg";
+        toggleIcon.src = "assets/icons/moon.svg";
         toggleText.textContent = "Dark Mode";
     }
 })
