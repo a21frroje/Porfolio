@@ -22,7 +22,7 @@ const changeLenguage = async(lenguage) =>{
 
 flagsElement.addEventListener('click', (e)=>{
     changeLenguage(e.target.parentElement.dataset.lenguage);
-});
+})
 
 toggleTheme.addEventListener('click', ()=>{
     document.body.classList.toggle("dark");
@@ -33,4 +33,8 @@ toggleTheme.addEventListener('click', ()=>{
         toggleIcon.src = "assets/icons/moon.svg";
         toggleText.textContent = "Dark Mode";
     }
+})
+
+toggleColors.addEventListener("click", (e)=>{
+    rootStyles.setProperty("--primary-color", e.target.dataset.color)
 })
