@@ -24,12 +24,12 @@
         "second-proyect-title":"Tutorial_CSS3_2023-24",
         "second-proyect-description":"Repository of a CSS3 tutorial made by 2DAW students of IES Gran Capitán 2022-2024"
     },
-    "second-proyect-description-ul":{
-        "first-li":"You can only modify and work on your branch",
-        "second-li":"When you have finished you will have to request a merge/pull request for it to be accepted. Before being accepted it will be corrected",
-        "third-li":"It can only be done on the development branch",
-        "fourth-li":"You must have a copy of the branch. As a recommendation, create your own repository with your work",
-        "fifth-li":"If you need to create branches, they must have the name of your branch followed by the description that you think is appropriate."
+    "second-proyect-description-desc":{
+        "first-desc":"You can only modify and work on your branch",
+        "second-desc":"When you have finished you will have to request a merge/pull request for it to be accepted. Before being accepted it will be corrected",
+        "third-desc":"It can only be done on the development branch",
+        "fourth-desc":"You must have a copy of the branch. As a recommendation, create your own repository with your work",
+        "fifth-desc":"If you need to create branches, they must have the name of your branch followed by the description that you think is appropriate."
     },
     "hobbie":{
         "first-hobbie-title":"Gym",

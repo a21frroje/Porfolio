@@ -24,12 +24,12 @@
         "second-proyect-title":"Tutorial_CSS3_2023-24",
         "second-proyect-description":"Repositorio de un tutorial CSS3 realizado por los alumnos de 2DAW del IES Gran Capitán 2022-2024"
     },
-    "second-proyect-description-ul":{
-        "first-li":"Podréis sólo modificar y trabajar sobre vuestra rama",
-        "second-li":"Cuándo hayáis finalizado tendréis que solicitar un merge/pull request para que sea aceptada. Antes de ser aceptada será corregida",
-        "third-li":"Sólo se puede hacer sobre la rama desarrollo",
-        "fourth-li":"Debéis tener una copia de la rama. Cómo recomendación, crearos vuestro propio repositorio con vuestro trabajo",
-        "fifth-li":"Si necesitáis crear ramas, deben tener el nombre de vuestra rama seguido de la descripción que creáis oportuna."
+    "second-proyect-description-desc":{
+        "first-desc":"Podréis sólo modificar y trabajar sobre vuestra rama",
+        "second-desc":"Cuándo hayáis finalizado tendréis que solicitar un merge/pull request para que sea aceptada. Antes de ser aceptada será corregida",
+        "third-desc":"Sólo se puede hacer sobre la rama desarrollo",
+        "fourth-desc":"Debéis tener una copia de la rama. Cómo recomendación, crearos vuestro propio repositorio con vuestro trabajo",
+        "fifth-desc":"Si necesitáis crear ramas, deben tener el nombre de vuestra rama seguido de la descripción que creáis oportuna."
     },
     "hobbie":{
         "first-hobbie-title":"Gimnasio",
