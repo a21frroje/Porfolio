@@ -1,14 +1,20 @@
 {
     "profile":{
         "rol": "Desarrollador Full Stack",
-        "description": "Pues si la verdad es que me gustan las tetas mas que a un tonto un lapiz"
+        "description": "Tecnico en sistemas microinformaticos y redes.<br>Tecnico superior en Desarrollo de Aplicaciones Web.<br>Soy una persona muy competitiva, estoy dispuesto a aprender cualquier otro idioma y con muchas ganas de trabajar y empezar muchos proyectos"
     },
     "experience":{
         "first-job-title": "Instalacion y configuracion de routers",
         "first-job-dates": "Dic 2020 - Sep 2023",
-        "first-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vero, aliquam ea voluptas debitis labore possimus dolor, autem impedit natus temporibus? Obcaecati, voluptate! Sunt nemo ratione minima est nam rem.",
+        "first-job-description": "Me dedicaba a la configuracion de router y servidores a la par que la instalacion de sistemas operativos en equipos y grabado laser. En los años tambien realice trabajos de mozo de almacen como pudiesen ser recepcionar mercancia y organizacion de la misma.",
         "second-job-title": "Instalacion y configuracion de routers",
         "second-job-dates": "Dic 2020 - Sep 2023",
         "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vero, aliquam ea voluptas debitis labore possimus dolor, autem impedit natus temporibus? Obcaecati, voluptate! Sunt nemo ratione minima est nam rem."
+    },
+    "lenguage":{
+        "front":"Front End",
+        "disenio": "Diseño",
+        "back": "Back End",
+        "anios": "Años de experiencia"
     }
 }
