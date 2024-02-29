@@ -19,10 +19,10 @@
         "anios": "Años de experiencia"
     },
     "proyect":{
-        "first-title":"Pequeño juego de tres en rayas.",
-        "first-description":"Este tutorial no asume ningún conocimiento previo de React. Las técnicas que aprenderás en el tutorial son fundamentales para crear cualquier aplicación de React, y comprenderlas por completo te dará una visión profunda de React. Aqui encontraras un pequeño tutorial.",
-        "second-title":"Tutorial_CSS3_2023-24",
-        "second-description":"Repositorio de un tutorial CSS3 realizado por los alumnos de 2DAW del IES Gran Capitán 2022-2024"
+        "first-proyect-title":"Pequeño juego de tres en rayas.",
+        "first-proyect-description":"Este tutorial no asume ningún conocimiento previo de React. Las técnicas que aprenderás en el tutorial son fundamentales para crear cualquier aplicación de React, y comprenderlas por completo te dará una visión profunda de React. Aqui encontraras un pequeño tutorial.",
+        "second-proyect-title":"Tutorial_CSS3_2023-24",
+        "second-proyect-description":"Repositorio de un tutorial CSS3 realizado por los alumnos de 2DAW del IES Gran Capitán 2022-2024"
     },
     "second-proyect-description":{
         "first-li":"Podréis sólo modificar y trabajar sobre vuestra rama",

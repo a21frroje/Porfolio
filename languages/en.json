@@ -19,10 +19,10 @@
         "anios": "Years of experience"
     },
     "proyect":{
-        "first-title":"Small three-in-a-row game.",
-        "first-description":"This tutorial does not assume any prior knowledge of React. The techniques you'll learn in the tutorial are critical to building any React app, and fully understanding them will give you deep insight into React. Here you will find a small tutorial.",
-        "second-title":"Tutorial_CSS3_2023-24",
-        "second-description":"Repository of a CSS3 tutorial made by 2DAW students of IES Gran Capitán 2022-2024"
+        "first-proyect-title":"Small three-in-a-row game.",
+        "first-proyect-description":"This tutorial does not assume any prior knowledge of React. The techniques you'll learn in the tutorial are critical to building any React app, and fully understanding them will give you deep insight into React. Here you will find a small tutorial.",
+        "second-proyect-title":"Tutorial_CSS3_2023-24",
+        "second-proyect-description":"Repository of a CSS3 tutorial made by 2DAW students of IES Gran Capitán 2022-2024"
     },
     "second-proyect-description":{
         "first-li":"You can only modify and work on your branch",
