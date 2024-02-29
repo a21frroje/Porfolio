@@ -24,7 +24,7 @@
         "second-title":"Tutorial_CSS3_2023-24",
         "second-description":"Repositorio de un tutorial CSS3 realizado por los alumnos de 2DAW del IES Gran Capitán 2022-2024"
     },
-    "second-description":{
+    "second-proyect-description":{
         "first-li":"Podréis sólo modificar y trabajar sobre vuestra rama",
         "second-li":"Cuándo hayáis finalizado tendréis que solicitar un merge/pull request para que sea aceptada. Antes de ser aceptada será corregida",
         "third-li":"Sólo se puede hacer sobre la rama desarrollo",

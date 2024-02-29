@@ -24,7 +24,7 @@
         "second-title":"Tutorial_CSS3_2023-24",
         "second-description":"Repository of a CSS3 tutorial made by 2DAW students of IES Gran Capitán 2022-2024"
     },
-    "second-description":{
+    "second-proyect-description":{
         "first-li":"You can only modify and work on your branch",
         "second-li":"When you have finished you will have to request a merge/pull request for it to be accepted. Before being accepted it will be corrected",
         "third-li":"It can only be done on the development branch",
