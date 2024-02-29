@@ -4,6 +4,7 @@
         "description": "Technician in microcomputer systems and networks.<br>Senior technician in Web Application Development.<br>I am a very competitive person, I am willing to learn any other language and eager to work and start many projects."
     },
     "experience":{
+        "experience-title":"Experience",
         "first-job-title": "Installation and configuration of routers",
         "first-job-dates": "Dic 2020 - Sep 2023",
         "first-job-description": "I was dedicated to configuring routers and servers as well as installing operating systems on computers and laser engraving. Over the years I also worked as a warehouse worker such as receiving merchandise and organizing it.",
@@ -16,5 +17,22 @@
         "disenio": "Desing",
         "back": "Back End",
         "anios": "Years of experience"
+    },
+    "proyect":{
+        "first-title":"Small three-in-a-row game.",
+        "first-description":"This tutorial does not assume any prior knowledge of React. The techniques you'll learn in the tutorial are critical to building any React app, and fully understanding them will give you deep insight into React. Here you will find a small tutorial.",
+        "second-title":"Tutorial_CSS3_2023-24",
+        "second-description":"Repository of a CSS3 tutorial made by 2DAW students of IES Gran Capitán 2022-2024"
+    },
+    "second-description":{
+        "first-li":"You can only modify and work on your branch",
+        "second-li":"When you have finished you will have to request a merge/pull request for it to be accepted. Before being accepted it will be corrected",
+        "third-li":"It can only be done on the development branch",
+        "fourth-li":"You must have a copy of the branch. As a recommendation, create your own repository with your work",
+        "fifth-li":"If you need to create branches, they must have the name of your branch followed by the description that you think is appropriate."
+    },
+    "hobbie":{
+        "first-hobbie-title":"Gym",
+        "first-hobbie-description":"I have been practicing sports in the gym since 2018 as it helps me focus, stay healthy and clear up the days of code that get stuck more than necessary."
     }
 }

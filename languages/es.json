@@ -4,6 +4,7 @@
         "description": "Tecnico en sistemas microinformaticos y redes.<br>Tecnico superior en Desarrollo de Aplicaciones Web.<br>Soy una persona muy competitiva, estoy dispuesto a aprender cualquier otro idioma y con muchas ganas de trabajar y empezar muchos proyectos"
     },
     "experience":{
+        "experience-title":"Experiencias",
         "first-job-title": "Instalacion y configuracion de routers",
         "first-job-dates": "Dic 2020 - Sep 2023",
         "first-job-description": "Me dedicaba a la configuracion de router y servidores a la par que la instalacion de sistemas operativos en equipos y grabado laser. En los años tambien realice trabajos de mozo de almacen como pudiesen ser recepcionar mercancia y organizacion de la misma.",
@@ -12,9 +13,26 @@
         "second-job-description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, vero, aliquam ea voluptas debitis labore possimus dolor, autem impedit natus temporibus? Obcaecati, voluptate! Sunt nemo ratione minima est nam rem."
     },
     "lenguage":{
-        "front":"Front End",
+        "primero":"Front End",
         "disenio": "Diseño",
         "back": "Back End",
         "anios": "Años de experiencia"
+    },
+    "proyect":{
+        "first-title":"Pequeño juego de tres en rayas.",
+        "first-description":"Este tutorial no asume ningún conocimiento previo de React. Las técnicas que aprenderás en el tutorial son fundamentales para crear cualquier aplicación de React, y comprenderlas por completo te dará una visión profunda de React. Aqui encontraras un pequeño tutorial.",
+        "second-title":"Tutorial_CSS3_2023-24",
+        "second-description":"Repositorio de un tutorial CSS3 realizado por los alumnos de 2DAW del IES Gran Capitán 2022-2024"
+    },
+    "second-description":{
+        "first-li":"Podréis sólo modificar y trabajar sobre vuestra rama",
+        "second-li":"Cuándo hayáis finalizado tendréis que solicitar un merge/pull request para que sea aceptada. Antes de ser aceptada será corregida",
+        "third-li":"Sólo se puede hacer sobre la rama desarrollo",
+        "fourth-li":"Debéis tener una copia de la rama. Cómo recomendación, crearos vuestro propio repositorio con vuestro trabajo",
+        "fifth-li":"Si necesitáis crear ramas, deben tener el nombre de vuestra rama seguido de la descripción que creáis oportuna."
+    },
+    "hobbie":{
+        "first-hobbie-title":"Gimnasio",
+        "first-hobbie-description":"Llevo desde 2018 practicando deporte en el gimnasio ya que me ayuda a centarme, estar sano y a despejarme de los dias de codigo que se atrancan mas de la cuenta."
     }
 }
